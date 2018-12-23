@@ -1,4 +1,4 @@
-package com.hr.jackson.LifeCircle.domain;
+package com.hr.jackson.LifeCircle.module.test.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

@@ -1,4 +1,4 @@
-package com.hr.jackson.LifeCircle.filter;
+package com.hr.jackson.Common.filter;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletRequest;
